@@ -1,0 +1,56 @@
+segment,leads,conversions,rate_%,segment_type,population
+Staff,15579,1863,12.0,level,all leads
+Consultant,1134,132,11.6,level,all leads
+Manager,7918,902,11.4,level,all leads
+Director,2301,228,9.9,level,all leads
+Missing,4710,426,9.0,level,all leads
+VP,1118,89,8.0,level,all leads
+Dept. Heads,111,7,6.3,level,all leads
+CXO,471,25,5.3,level,all leads
+Administrator,357,17,4.8,level,all leads
+Other,542,13,2.4,level,all leads
+Board,55,1,1.8,level,all leads
+Purchasing / Supply Chain / Sourcing,264,46,17.4,department,all leads
+Project Management,751,105,14.0,department,all leads
+Analyst,474,66,13.9,department,all leads
+Other,348,48,13.8,department,all leads
+Information Technology,6591,891,13.5,department,all leads
+Business Operations,312,41,13.1,department,all leads
+Engineering,3877,504,13.0,department,all leads
+Network Operations,2516,316,12.6,department,all leads
+Strategy,921,114,12.4,department,all leads
+Business Development,902,99,11.0,department,all leads
+Sales,2442,251,10.3,department,all leads
+Customer Service,108,11,10.2,department,all leads
+Missing,7373,708,9.6,department,all leads
+Account Management,256,23,9.0,department,all leads
+Research & Development,3315,261,7.9,department,all leads
+Marketing / Communication / PR,2678,171,6.4,department,all leads
+Legal,239,14,5.9,department,all leads
+Human Resources / People,142,7,4.9,department,all leads
+Accounting / Finance,748,22,2.9,department,all leads
+Manager,1899,887,46.7,level,existing customers
+Staff,4454,1792,40.2,level,existing customers
+Director,652,215,33.0,level,existing customers
+Missing,1267,417,32.9,level,existing customers
+Consultant,424,127,30.0,level,existing customers
+VP,480,86,17.9,level,existing customers
+Other,56,10,17.9,level,existing customers
+Administrator,91,16,17.6,level,existing customers
+CXO,188,23,12.2,level,existing customers
+Other,88,46,52.3,department,existing customers
+Business Development,188,98,52.1,department,existing customers
+Analyst,132,62,47.0,department,existing customers
+Project Management,219,100,45.7,department,existing customers
+Business Operations,90,41,45.6,department,existing customers
+Network Operations,672,294,43.8,department,existing customers
+Engineering,1116,479,42.9,department,existing customers
+Information Technology,2170,865,39.9,department,existing customers
+Strategy,282,110,39.0,department,existing customers
+Missing,1985,697,35.1,department,existing customers
+Research & Development,725,244,33.7,department,existing customers
+Purchasing / Supply Chain / Sourcing,140,45,32.1,department,existing customers
+Sales,795,251,31.6,department,existing customers
+Marketing / Communication / PR,690,169,24.5,department,existing customers
+Legal,58,14,24.1,department,existing customers
+Accounting / Finance,100,21,21.0,department,existing customers
